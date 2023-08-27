@@ -4,19 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohammedahmadi1990/social-media-backend.git"
+    "url": "git+https://github.com/Jcena05182/social-media-node-bk.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mohammedahmadi1990/social-media-backend/issues"
+    "url": "https://github.com/Jcena05182/social-media-node-bk/issues"
   },
-  "homepage": "https://github.com/mohammedahmadi1990/social-media-backend#readme",
+  "homepage": "https://github.com/Jcena05182/social-media-node-bk#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
